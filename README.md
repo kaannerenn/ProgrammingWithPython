@@ -1,2 +1,2 @@
 # ProgrammingWithPython
-Python çalıştıüım alan
+Python çalıştıgım alan
